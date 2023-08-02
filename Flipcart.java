@@ -1,0 +1,2 @@
+class Flipcart extends Ecommerce{
+}

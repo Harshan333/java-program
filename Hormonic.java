@@ -1,0 +1,3 @@
+class Hormonic extends MusialInstrument{
+
+}
